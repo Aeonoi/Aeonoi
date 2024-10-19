@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since August 2022.<br>📚 I'm currently interested in full stack development.<br>💡 I'm always ready to learn new technologies and software.<br>🎯 Goals: Creating fun, practical, and meaningful applications.<br>🎲 Hobbies: Making my NeoVim better.</p>
+<p align="left">✨ Creating bugs since August 2022.<br>📚 I'm currently interested in full stack development.<br>💡 I'm always ready to learn new technologies and software.<br>🎯 Goals: Creating fun, practical, and meaningful applications.<br>🎲 Hobbies: Configuring and making my NeoVim better.</p>
 
 ###
 
