@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Dylan and I'm a junior studying computer science at Rensselaer Polytechnic Institute.</p>
-<a href="aeonoi.github.io/">Personal Website</a>
+<a href="https:://aeonoi.github.io/">Personal Website</a>
 
 ###
 
