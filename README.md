@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently interested in full-stack web development.<br>💡 I'm always ready to learn new technologies and software.<br>🎯 Goals: Creating fun and practical applications.<br>🎲 Hobbies: Configuring my NeoVim.</p>
+<p align="left">📚 I'm currently interested in full-stack development.<br>💡 I'm always ready to learn new technologies and software.<br>🎯 Goals: Creating fun and practical applications.<br>🎲 Hobbies: Configuring my NeoVim.</p>
 
 ###
 
