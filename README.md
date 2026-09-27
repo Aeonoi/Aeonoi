@@ -2,4 +2,4 @@
 
 ###
 
-<p align="left">My name is Dylan and I am just learning and programming for fun.</p>
+<p align="left">My name is Dylan and I am learning and coding whatever piques my interest.</p>
